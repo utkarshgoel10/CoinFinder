@@ -2,7 +2,6 @@ import React from 'react'
 import {SiBitcoinsv} from 'react-icons/si'
 import {Link} from 'react-router-dom'
 import './Navbar.css'
-import Logo from '../crypto_logo.png'
 
 const Navbar = () => {
     return (
